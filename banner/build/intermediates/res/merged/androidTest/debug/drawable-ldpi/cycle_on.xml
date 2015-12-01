@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="#bbbbbb" />
+
+    <corners
+        android:bottomLeftRadius="10dp"
+        android:bottomRightRadius="10dp"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp" />
+
+</shape><!-- From: file:/E:/studio_wp/banner/src/main/res/drawable-ldpi/cycle_on.xml --><!-- From: file:/E:/studio_wp/banner/build/intermediates/bundles/debug/res/drawable-ldpi/cycle_on.xml -->

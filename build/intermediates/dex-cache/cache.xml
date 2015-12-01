@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\studio_wp\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-50d75d3e11cdf22e033cbef535c9f7dbdbab9fcb.jar" />
+    </item>
+    <item
+        jar="E:\studio_wp\app\libs\androideventbus-1.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e6feeb7339c90a0668187a09d3b1109346ef6b4c">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\androideventbus-1.0.2-d4e1d5e40bf8f5d092b2d3da614424984e9de1fd.jar" />
+    </item>
+    <item
+        jar="E:\studio_wp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\classes-9b4f20a74c7aa540a8e3431c20c9ccde4b264b08.jar" />
+    </item>
+    <item
+        jar="F:\software\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5bc7dea61046fbf79b06f791aacd63c93c3d0f2f.jar" />
+    </item>
+    <item
+        jar="E:\studio_wp\app\build\intermediates\exploded-aar\studio_wp\banner\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab49a0c11f4c329c16ac6bd31aee8a7761c80e05">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\classes-a3bb83680496e0f20a9cb51e7c30ef760224e351.jar" />
+    </item>
+    <item
+        jar="E:\studio_wp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-c0ab4ff92747390595b9004ebbc9d51eb8b85961.jar" />
+    </item>
+    <item
+        jar="E:\studio_wp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\studio_wp\app\build\intermediates\pre-dexed\debug\classes-a180a531d5b7786d9cfbca71f3552d240e8c8349.jar" />
+    </item>
+
+</items>
